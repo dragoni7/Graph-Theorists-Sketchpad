@@ -15,7 +15,11 @@
 
 # Controls
 left click in the drawing panel creates a new vertex
+
 right click on a vertex or an edge selects it
+
 right clicking a selected object deselects it
+
 left clicking a vertex while another vertex is selected creates an edge between the two
+
 click and drag moves a vertex
