@@ -237,7 +237,7 @@ namespace GraphTheoristSketchpad
         /// Depth first search of graph.
         /// </summary>
         /// <param name="start">start index.</param>
-        /// <param name="visited">bool arraya of visited values</param>
+        /// <param name="visited">bool array of visited values</param>
         private void SearchGraph(int start, bool[] visited)
         {
             visited[start] = true;
